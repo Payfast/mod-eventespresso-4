@@ -9,21 +9,15 @@ if (!defined('EVENT_ESPRESSO_VERSION'))
  *
  * @ package            Event Espresso
  * @ author             Seth Shoultes
- * @ copyright      (c) 2008-2011 Event Espresso  All Rights Reserved.
- * @ license            http://eventespresso.com/support/terms-conditions/   * see Plugin Licensing *
- * @ link                   http://www.eventespresso.com
+ * @ link               http://www.eventespresso.com
  * @ version            4.0
  *
  * ------------------------------------------------------------------------
  *
  * Payment Gateway - PayFast
  *
- * Copyright (c) 2008 PayFast (Pty) Ltd
- * You (being anyone who is not PayFast (Pty) Ltd) may download and use this plugin / code in your own website in conjunction with a registered and active PayFast account. If your PayFast account is terminated for any reason, you may not use this plugin / code or part thereof.
- * Except as expressly indicated in this licence, you may not use, copy, modify or distribute this plugin / code or part thereof in any way.
- *
- * @package         Event Espresso
- * @subpackage      gateways/
+ * @package             Event Espresso
+ * @subpackage          gateways/
  * @author              Ron Darby - PayFast
  *
  * ------------------------------------------------------------------------
